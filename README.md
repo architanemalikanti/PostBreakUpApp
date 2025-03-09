@@ -1,4 +1,4 @@
-# Is She Prettier Than Me?
+# Post Break-Up App
 
 A supportive iOS app that helps you process and move forward from relationship challenges with style and grace. This app combines AI-powered analysis with emotional support to help you focus on personal growth and self-improvement.
 
